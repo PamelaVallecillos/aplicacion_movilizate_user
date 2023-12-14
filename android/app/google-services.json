@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "320013029093",
+    "project_id": "app-movilizate",
+    "storage_bucket": "app-movilizate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320013029093:android:0029888fdabcacf1800e0c",
+        "android_client_info": {
+          "package_name": "com.example.aplicacion_movilizate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAVIwZ394laxFANYK_1hUH0sPNA7e0UNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
